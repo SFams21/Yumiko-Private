@@ -1,27 +1,18 @@
-# CATATAN ( NOTE )
-sc ini hanyalah hasil recode dari sc asli hisoka
-naze hanya menghilangkat bug, memperbagus & menyeting banyak hal
-agar tidak terjadi error
-
-#NazeMD
+#Yumiko BMD
 Script WhatsApp Bot Multi Device
 
 ## NOTE
 This Script is for everyone, not for Sale. Jika dijual neraka menunggumu brother !
 
 <p align="center">
-	<img src="https://telegra.ph/file/e661734204ce5f21b185b.png" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
+	<img src="https://telegra.ph/file/32a11955a60e58efca727.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">NAZE DEV</h1>
+<h1 align="center">SFams21</h1>
 
 This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
 
 ## My Project
-* New script to replace this script [`look here`](https://github.com/nazedev/naze-md) (`MULTI DEVICE `)
-* WhatsApp Bot normal [`DikaArdnt/Hisoka-Morrow`](https://github.com/DikaArdnt/Hisoka-Morrow) (SC ORI)
-* WhatsApp Bot Multi Device [`DikaArdnt/Hisoka-Morou`](https://github.com/DikaArdnt/Hisoka-Morou)
-* WhatsApp Bot Using Library whatsapp-web.js [`hisoka-waweb.js`](https://github.com/Hisoka-Morrou/hisoka-waweb.js/)
-
+* New script this script [`look here`](https://github.com/SFams21/Yumiko-Private) (`MULTI DEVICE `)
 
 ## UNTUK PENGGUNA WINDOWS/RDP
 
@@ -31,7 +22,7 @@ This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](h
 
 
 ```bash
-git clone https://github.com/nazedev/naze-md
+git clone https://github.com/SFams21/Yumiko-Private
 cd naze
 npm install
 ```
@@ -73,23 +64,13 @@ $ node .
 Bot WhatsApp masih dalam tahap pengembangan, jadi ada beberapa bug
 Koneksi WhatsApp (BETA, tidak berfungsi dengan sempurna)
 
-Editing Number Owner in [`config.js`](https://github.com/nazedev/naze-md/blob/main/config.js)
-Get Apikey zenz on [`zenz`](https://zenzapi.xyz/pricing)
+Editing Number Owner in [`config.js`](https://github.com/SFams21/Yumiko-Private/blob/main/config.js)
+Get Apikey Lol Human on [`LolHuman`](https://api.lolhuman.xyz/pricing)
 
 
 ## Thanks To
 * [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
-* [`Nurutomo`](https://github.com/Nurutomo)
-* [`Mhankbarbar`](https://github.com/MhankBarBar)
-* [`Faiz`](https://github.com/FaizBastomi)
-* [`Gimenz`](https://github.com/Gimenz)
-* [`rayy`](https://github.com/rayyreall)
-* [`Fatih Arridho`](https://github.com/FatihArridho)
-* [`zhwzein`](https://github.com/zhwzein)
-* [`CAF-ID`](https://github.com/CAF-ID)
-* [`bintang`](https://github.com/Bintangp02)
-* [`ArullOfc`](https://github.com/Warikrr)
-* [`Naze Dev`](https://github.com/nazedev)
+* [`LolHuman`](https://github.com/LoL-Human)
 
 ```Thanks to all who have participated in the development of this script```
 
@@ -97,4 +78,4 @@ Get Apikey zenz on [`zenz`](https://zenzapi.xyz/pricing)
 License: [MIT](https://en.wikipedia.org/wiki/MIT_License)
 
 Support Me:
-* [`Saweria`](https://saweria.co/naze)
+* [`DANA`](089637959432)
